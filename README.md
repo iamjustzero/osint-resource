@@ -33,8 +33,10 @@ Intelligence for UK National Security](https://static.rusi.org/330_OP_FutureOfOp
 
 ## Advanced Search
 - [Google](https://www.google.com/advanced_search)
+- [Google Image](https://www.google.com/advanced_image_search)
 - [Archive](https://archive.org/advancedsearch.php)
-- [(X) Twitter](https://twitter.com/search-advanced)
+- [X](https://twitter.com/search-advanced)
+
 
 ## Archive
 - [Archive](https://web.archive.org/)
@@ -52,12 +54,31 @@ Intelligence for UK National Security](https://static.rusi.org/330_OP_FutureOfOp
 - [Social Seracher](https://www.social-searcher.com/)
 - [Pipl](https://pipl.com/)
 - [Who Posted What?](https://whopostedwhat.com/)
+- [Facebook](http://www.facebook.com/)
 - [Instagram](https://www.instagram.com/)
+- [TikTok](https://www.tiktok.com/)
+- [X](https://x.com/)
+- [WhatsApp](https://www.whatsapp.com/)
+- [Snapchat](https://www.snapchat.com/)
+- [WeChat](https://www.wechat.com/)
+- [Telegram](https://telegram.org/)
+- [Messenger](https://www.messenger.com/)
+- [Linkedin](https://www.linkedin.com/)
+- [Reddit](https://www.reddit.com/)
+- [Pinterest](https://www.pinterest.com/)
+- [Quora](https://www.quora.com/)
+- [GitHub](https://github.com/)
+- [Youtube](https://www.youtube.com/)
 
-
-
-
-
+## Reverse Image
+- [TinEye](https://tineye.com/)
+- [Google Image](https://images.google.com/)
+- [Google Image Advanced Search](https://www.google.com/advanced_image_search)
+- [Yandex Image Search](https://yandex.com/images/)
+- [Bing Visual Search](https://www.bing.com/visualsearch)
+- [DnsChecker](https://dnschecker.org/reverse-image-search.php)
+- [Dupli Checker](https://www.duplichecker.com/reverse-image-search.php)
+- [Criminal IP](https://www.criminalip.io/login?h2=/image)
 
 ## Contributing
 
