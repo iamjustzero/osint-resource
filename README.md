@@ -84,6 +84,9 @@ Intelligence for UK National Security](https://static.rusi.org/330_OP_FutureOfOp
 
 Pull requests are welcome.
 
+### Note
+This repository still on development, ill update soon.
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
