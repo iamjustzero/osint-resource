@@ -80,6 +80,22 @@ Intelligence for UK National Security](https://static.rusi.org/330_OP_FutureOfOp
 - [Dupli Checker](https://www.duplichecker.com/reverse-image-search.php)
 - [Criminal IP](https://www.criminalip.io/login?h2=/image)
 
+## News
+- [The Washington Post](https://www.washingtonpost.com/)
+- [CNN](https://edition.cnn.com/)
+- [BBC](https://www.bbc.com/)
+- [Aljazeera](https://www.aljazeera.com/)
+- [NBC News](https://www.nbcnews.com/)
+- [The Guardrian](https://www.theguardian.com/)
+- [ABC News](https://abcnews.go.com/)
+- [The New York Times](https://www.nytimes.com/)
+- [Fox News](https://www.foxnews.com/)
+
+## Website Tools
+On these websites there are several tools
+
+
+
 ## Contributing
 
 Pull requests are welcome.
