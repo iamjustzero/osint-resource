@@ -1,4 +1,4 @@
-# OSINT Web Source
+# OSINT Web Resource
 
 A collection of web OSINT resources for open source intelligence gathering.
 
