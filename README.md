@@ -37,7 +37,6 @@ Intelligence for UK National Security](https://static.rusi.org/330_OP_FutureOfOp
 - [Archive](https://archive.org/advancedsearch.php)
 - [X](https://twitter.com/search-advanced)
 
-
 ## Archive
 - [Archive](https://web.archive.org/)
 - [BBC Archive](https://archivesearch.tools.bbc.co.uk/welcome)
@@ -45,10 +44,6 @@ Intelligence for UK National Security](https://static.rusi.org/330_OP_FutureOfOp
 - [The U.S. National Archives](https://www.archives.gov/research)
 - [Library of Congress](https://www.loc.gov/web-archives/)
 - [UK Government Web Archive](https://www.nationalarchives.gov.uk/webarchive/)
-
-## General Tools
-- [OSINT Framework](https://osintframework.com/)
-- [Intel Techniques](https://inteltechniques.com/tools/index.html)
 
 ## Social Media Analysis
 - [Social Seracher](https://www.social-searcher.com/)
@@ -80,6 +75,17 @@ Intelligence for UK National Security](https://static.rusi.org/330_OP_FutureOfOp
 - [Dupli Checker](https://www.duplichecker.com/reverse-image-search.php)
 - [Criminal IP](https://www.criminalip.io/login?h2=/image)
 
+## IP
+- [ip-lookup.net](https://ip-lookup.net/)
+- [iplocation.net](https://www.iplocation.net/ip-lookup)
+- [whatismyipaddress.com](https://whatismyipaddress.com/)
+
+## Geolocation
+- [Hacker Target](https://hackertarget.com/geoip-ip-location-lookup/)
+- [iplocation.net](https://www.iplocation.net/)
+- [ipgeolocation.io](https://ipgeolocation.io/what-is-my-ip/)
+- [geolocation.com](https://www.geolocation.com/)
+- [ip2location.com](https://www.ip2location.com/demo/169.150.218.81)
 ## News
 - [The Washington Post](https://www.washingtonpost.com/)
 - [CNN](https://edition.cnn.com/)
@@ -93,12 +99,18 @@ Intelligence for UK National Security](https://static.rusi.org/330_OP_FutureOfOp
 
 ## Website Tools
 On these websites there are several tools
-
-
+- [Intel Techniques](https://inteltechniques.com/tools/index.html)
+- [intelx](https://intelx.io/tools)
+- [OSINT Framework](https://osintframework.com/)
+- [Hacker Target](https://hackertarget.com/)
+- [Goosint](https://goosint.com/)
+- [osint.place](https://www.osint.place/tools)
+- [OSINT-FR](https://osintfr.com/en/tools/)
+- [OSINT Combine](https://www.osintcombine.com/tools)
+- [Aware Online](https://www.aware-online.com/en/osint-tools/)
 
 ## Contributing
-
-Pull requests are welcome.
+If you have suggestions for how this project could be improved, or you wanna add something. Pull requests are welcome.
 
 ### Note
 This repository still on development, ill update soon.
