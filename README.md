@@ -21,6 +21,7 @@ Intelligence for UK National Security](https://static.rusi.org/330_OP_FutureOfOp
 ## Search  Engine
 - [Duck Duck Go](https://duckduckgo.com/)
 - [Shodan](https://www.shodan.io/)
+- [Ahmia](ahmia.fi)
 - [Brave](https://search.brave.com/)
 - [Yandex](https://yandex.com/)
 - [Google](https://www.google.com/)
