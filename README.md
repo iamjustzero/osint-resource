@@ -111,7 +111,8 @@ On these websites there are several tools
 - [Aware Online](https://www.aware-online.com/en/osint-tools/)
 
 ## Contributing
-If you have suggestions for how this project could be improved, or you wanna add something. Pull requests are welcome.
+If you have suggestions for how this project could be improved, or you wanna add something.
+Pull requests are welcome.
 
 ## License
 
